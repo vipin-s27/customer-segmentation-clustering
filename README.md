@@ -51,7 +51,7 @@ The dataset provides valuable insights into customer preferences, spending habit
 * Power BI
 * Power Query
 * Orange Data Mining
-* K-Means Clustering
+* Machine Learning (K-Means Clustering)
 * Excel / CSV
 
 # 🔧 Project Workflow
